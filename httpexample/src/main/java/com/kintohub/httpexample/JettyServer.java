@@ -36,7 +36,7 @@ public final class JettyServer
     	 * 
     	 * @apiName Sample
     	 * 
-    	 * @apiParam (URL) {String} Message that you want to be echoed
+    	 * @apiParam (Url) {String} Message that you want to be echoed
     	 */
     	@Override
 		public void doGet(HttpServletRequest request, HttpServletResponse response)
